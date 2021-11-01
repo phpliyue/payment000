@@ -1,5 +1,5 @@
 {
-    "name": "payment/Wx",
+    "name": "payment/wx",
     "description": "CHINA churchyard payment api",
     "license": "MIT",
     "authors": [
