@@ -1,0 +1,17 @@
+{
+    "name": "payment/Wx",
+    "description": "CHINA churchyard payment api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LiPHP",
+            "email": "qmna.20@gmail.com",
+            "homepage": "https://github.com/phpliyue/payment"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Payment\\Wx\\": "src/Wx"
+        }
+    }
+}
