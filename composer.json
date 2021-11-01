@@ -1,5 +1,5 @@
 {
-    "name": "payment/wx",
+    "name": "payment000/wx",
     "description": "CHINA churchyard payment api",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Payment\\Wx\\": "src/Wx"
+            "Payment000\\Wx\\": "src/Wx"
         }
     }
 }
