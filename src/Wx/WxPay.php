@@ -7,4 +7,8 @@ class WxPay
     {
         return 'This is Wx payment test api';
     }
+    public static function getAccess()
+    {
+        return 'sssss';
+    }
 }
