@@ -1,5 +1,5 @@
 <?php
-namespace Payment000\Wx;
+namespace Payment000\wx;
 
 class WxPay
 {
