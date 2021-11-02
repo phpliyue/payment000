@@ -1,5 +1,5 @@
 <?php
-namespace Payment000\wx;
+namespace Payment000\Wx;
 
 class WxPay
 {
@@ -9,6 +9,6 @@ class WxPay
     }
     public static function getAccess()
     {
-        return 'sssss';
+        return 're';
     }
 }
